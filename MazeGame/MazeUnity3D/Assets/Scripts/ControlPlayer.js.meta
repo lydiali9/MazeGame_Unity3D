@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 20eac644325615040bfdc0e3751f1f56
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_playerControlCamera: {fileID: 2000000, guid: 54c71124c55675a4ca3637f8cceadf79,
+      type: 2}
+  - m_uiCamera: {fileID: 2000004, guid: 54c71124c55675a4ca3637f8cceadf79, type: 2}
+  - m_playerCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

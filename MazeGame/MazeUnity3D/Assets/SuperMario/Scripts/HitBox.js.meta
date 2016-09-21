@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 521e7d1b050f6fd44ab116545bf3cbe5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_mushroomObject: {fileID: 100000, guid: 4b1a25b25978f3f4fa799ece77d6400d, type: 2}
+  - m_lifeMushroomObject: {fileID: 100000, guid: 4e1d0c9de30acba4fba3d9c8bd03eaa4,
+      type: 2}
+  - m_starObject: {instanceID: 0}
+  - m_flowerObject: {fileID: 100000, guid: 816a0f02e5c6dfb488dcce49bb114dc1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

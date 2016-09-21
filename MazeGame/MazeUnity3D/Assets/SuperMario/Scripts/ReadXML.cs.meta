@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1a930f0240ac52f4181775817502229a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_ground: {fileID: 100000, guid: dceb5776e62212e47a17922cf58ac6d2, type: 2}
+  - m_brick: {fileID: 100000, guid: f907fa67dbbd6df4ea0a2f22145bdb56, type: 2}
+  - m_mushroomBox: {fileID: 100000, guid: 75b82682f9688de4282d1848087dc810, type: 2}
+  - m_lifeMushroomBox: {fileID: 100000, guid: 0401886146cdb134a83fcc13d0863b6d, type: 2}
+  - m_coinBox: {fileID: 100000, guid: cdf5aca57a5ad304a894bc0794e0a168, type: 2}
+  - m_starBox: {fileID: 100000, guid: 457a8abc88678b54ea69dae652254b61, type: 2}
+  - m_enemyNormal: {fileID: 100000, guid: c534ac0a7fb25d04684edcccc664e263, type: 2}
+  - m_enemyTortoise: {fileID: 100000, guid: a44ee3cac2f9806439af388a3d726436, type: 2}
+  - m_coin: {fileID: 100000, guid: 41295535aad4ddf48bf35de80ede15f9, type: 2}
+  - m_pipeline: {fileID: 100000, guid: dde302873554c7240976f779a582b554, type: 2}
+  - m_coinBrick: {fileID: 100000, guid: 3ab389d125c3d0b41980428de29e0810, type: 2}
+  - m_stone: {fileID: 100000, guid: b286e29131e690c4186e8f7da501cbbd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

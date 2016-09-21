@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1ae4cd9fabee5d3428f6b3c34de3cae0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_wall: {fileID: 100000, guid: 4038f0328eca22e4a97d852050ca21a6, type: 2}
+  - m_player: {fileID: 100024, guid: 54c71124c55675a4ca3637f8cceadf79, type: 2}
+  - m_otherPlayer: {fileID: 100000, guid: a37b54e7936885540977c68edd2c0931, type: 2}
+  - m_spawn: {fileID: 100000, guid: 3160b98b6d7199b468bf3bec5b8e1332, type: 2}
+  - m_gemBig: {fileID: 100000, guid: 7b8a244a9c77501479219dbf6f912113, type: 2}
+  - m_gemMid: {fileID: 100000, guid: f077032f8878f1047b344f0917dc280a, type: 2}
+  - m_gemSmall: {fileID: 100000, guid: 012a140529d8226438ca97193784d903, type: 2}
+  - m_medal: {fileID: 100000, guid: 48d51a7b529ca1e4691fddfd69e630ec, type: 2}
+  - m_trap: {fileID: 100000, guid: fbc796b9aa1b17a48b8db7d69531803b, type: 2}
+  - m_room: {fileID: 100000, guid: 4e799cbac2c076f44bc6490a981f1531, type: 2}
+  - m_mazeObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
